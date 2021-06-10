@@ -1,0 +1,34 @@
+table, th, td{
+	border: 1px solid black;
+	color: blue;
+	background-color: yellow;
+}
+
+table, th, td{
+	border: 1px solid black;
+	
+}
+
+.mydiv{
+	border: 5px outset red;
+	background-color: greenyellow;
+	text-align: center;
+}
+
+h1{
+	color: blue;
+	
+}
+p{
+	color: black;
+
+}
+ 
+aside{
+	width: 30%;
+	padding-left: 15px;
+	margin-left: 15px;
+	float: right;
+	font-style: italic;
+	background-color: greenyellow;
+}
